@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-🔭 I’m currently working on a paper trading web application   
+🔭 I’m currently working on a netflix clone  
 🌱 I’m currently learning machine learning with TensorFlow, Keras, and Scikit-learn  
 🤔 I’m currently seeking a software engineering internship   
 💬 Ask me about computers, finance, or video games  
@@ -12,7 +8,7 @@
 
 <details>
 
-<summary>Languages 👩‍💻  </summary>
+<summary>Languages 👩‍💻 </summary>
 
 &nbsp;
 
@@ -62,7 +58,9 @@ Here are some other languages I've worked with, but to a lesser extent. This is 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+   
+  
 &nbsp;
 
 </details>
@@ -76,6 +74,7 @@ Here are some other languages I've worked with, but to a lesser extent. This is 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 
 &nbsp;
 
