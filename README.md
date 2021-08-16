@@ -1,4 +1,4 @@
-🔭 I’m currently working on a netflix clone  
+🔭 I’m currently working on a Netflix clone  
 🌱 I’m currently learning machine learning with TensorFlow, Keras, and Scikit-learn  
 🤔 I’m currently seeking a software engineering internship   
 💬 Ask me about computers, finance, or video games  
