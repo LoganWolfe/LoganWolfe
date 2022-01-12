@@ -1,5 +1,5 @@
 🔭 I’m currently working on a Netflix clone  
-🌱 I’m currently learning ML/AI
+🌱 I’m currently learning ML/AI  
 🤔 I’m currently seeking a software engineering internship   
 💬 Ask me about computers, finance, or video games  
 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/logan-w)  
