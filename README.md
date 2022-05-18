@@ -1,6 +1,6 @@
-🔭 I’m currently working with GAN models
-🌱 I’m currently learning about cybersecurity and DevOps 
-🤔 I’m currently seeking software engineering opportunities
+🔭 I’m currently working with GAN models  
+🌱 I’m currently learning about cybersecurity and DevOps   
+🤔 I’m currently seeking software engineering opportunities  
 💬 Ask me about computers, finance, or video games  
 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/logan-w)  
 😄 Pronouns: He/Him/His  
