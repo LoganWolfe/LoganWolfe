@@ -1,89 +1,105 @@
-🔭 I’m currently working with GAN models  
-🌱 I’m currently learning about cybersecurity and DevOps   
-🤔 I’m currently seeking software engineering opportunities  
-💬 Ask me about computers, finance, or video games  
-📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/logan-w)  
-😄 Pronouns: He/Him/His  
-⚡ Random fun fact: Australia is wider than the moon. Yes, really!  
+🔭 I’m currently working on the Global Banking Platform repayments team.
+🌱 I’m currently expanding my software engineering skillset.  
+💬 Ask me about computers, finance, music, and games!  
+📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/logan-w)    
+😄 Pronouns: He/Him/His    
+⚡ Random fun fact: Australia is wider than the moon. Yes, really!    
 
 <details>
 
 <summary>Languages 👩‍💻 </summary>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-
-&nbsp;
-
-Here are some other languages I've worked with, but to a lesser extent. This is not an exhaustive list.  
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-
-&nbsp;
-
-</details>
-
-<details>
-
-<summary>Frameworks & Libraries :rocket:</summary>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit" />  
-
-&nbsp;
-
-</details>
-
-<details>
-
-<summary>Databases :minidisc:</summary>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+&nbsp;  
    
-  
+Languages I use each day:       
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+   
 &nbsp;
+   
+Other languages I'm comfortable with:   
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+&nbsp;
 </details>
 
 <details>
 
-<summary>Cloud :cloud:</summary>
-
+<summary>Tools & Technologies :rocket:</summary>
 &nbsp;
 
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+Here are some tools I use daily. See below for other technologies I'm comfortable using.  
+Note that this isn't an all-inclusive list. I'm on a greenfield project and our tech stack grows every day!
+   
+Development:  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+      
+Logging and Monitoring:   
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+     
+   
+Integration and Deployment:  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
+Project Management:  
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+   
+     
+Cloud:  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+Services: EKS, MSK, RDS, Lambda, CloudWatch, API Gateway, and more.
 
 &nbsp;
+</details>
 
+<details>
+
+<summary>Other Experience :minidisc:</summary>
+&nbsp;
+   
+The above sections highlight the tools and technologies I use just about every day.  
+Here are some other technologies I use less frequently but feel comfortable using (in no particular order).  
+
+Languages, frameworks, libraries, etc:  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+    
+      
+Databases:  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  
+       
+Cloud:   
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+   
+&nbsp;
 </details>
 
 <details>
 
 <summary>Spotify :headphones:</summary>
-
 &nbsp;
 
 [![Spotify Currently Playing](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-github-profile.vercel.app/api/view?uid=lmwolfe19&redirect=true)  
@@ -91,26 +107,7 @@ Here are some other languages I've worked with, but to a lesser extent. This is 
 ![Recently Played Songs](https://spotify-recently-played-readme.vercel.app/api?user=lmwolfe19)  
 
 &nbsp;
-
 </details>
-
-<details>
-
-<summary>Build :computer:</summary>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/i7_7700K-0071C5?style=for-the-badge&logo=Intel&logoColor=white" alt="Intel i7-7700K" />
-<img src="https://img.shields.io/badge/RTX_3070-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" alt="Nvidia RTX 3070" />
-<img src="https://img.shields.io/badge/ROG_STRIX_H270F-000000?style=for-the-badge&logo=ASUS&logoColor=white" alt="ASUS H270F" />
-<img src="https://img.shields.io/badge/Vengeance 32GB-000000?style=for-the-badge&logo=Corsair&logoColor=white" alt="Corsair Vengeance 32GB" />
-
-<img src="https://img.shields.io/badge/Windows-Dell_XPS_15-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Dell XPS 15" />
-
-&nbsp;
-
-</details>
-
 
 ---
 
