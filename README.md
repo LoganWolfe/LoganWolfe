@@ -1,4 +1,4 @@
-🔭 I’m currently working on the Global Banking Platform repayments team.
+🔭 I’m currently working on the Global Banking Platform repayments team.  
 🌱 I’m currently expanding my software engineering skillset.  
 💬 Ask me about computers, finance, music, and games!  
 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/logan-w)    
